@@ -1,0 +1,5 @@
+.idea
+venv
+test/
+spark-warehouse/
+spark_demo_course/
