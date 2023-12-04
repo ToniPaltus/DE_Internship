@@ -1,0 +1,8 @@
+venv
+.idea
+main.py
+data/
+dags/__pycache__
+dags/config_for_snowflake/config.py
+dags/config_for_snowflake/__pycache__
+dags/sql_query/__pycache__

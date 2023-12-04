@@ -1,0 +1,7 @@
+apache-airflow-providers-snowflake
+apache-airflow
+pyarrow
+pandas
+black
+flake8
+isort
