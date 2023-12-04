@@ -1,0 +1,8 @@
+pip install -U psycopg2-binary
+pip install pandas
+pip install numpy
+pip install lxml
+pip install pre-commit
+pip install black
+pip install flake8
+pip install isort

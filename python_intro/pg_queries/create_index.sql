@@ -1,0 +1,1 @@
+create index id_room_index on students(id_room);
